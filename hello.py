@@ -14,6 +14,7 @@ def main():
         json.dump(data, f, indent=4, ensure_ascii=False)
 
     print("성공! 'result.json' 파일에 저장되었습니다.")
+    print("힘들었다")
 
 if __name__ == "__main__":
     main()
