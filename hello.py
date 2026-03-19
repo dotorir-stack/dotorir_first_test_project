@@ -15,6 +15,7 @@ def main():
 
     print("성공! 'result.json' 파일에 저장되었습니다.")
     print("힘들었다")
+    print("수정했다.")
 
 if __name__ == "__main__":
     main()
